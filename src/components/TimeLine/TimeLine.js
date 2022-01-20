@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I already have introduce a lot about my self in the above sections through my projects and skills. And, here I have listed little bit more about my education and dergrees that I have received yet.
+        I already have introduce a lot about my self in the above sections through my projects and skills. And, here I have listed little bit more about my current education and dergrees that I have received yet.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
