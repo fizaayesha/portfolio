@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'DAV Mukhyamantri Public School Raigarh (Senior Secondary School)', },
+  { year: 2017, text: 'DAV Mukhyamantri Public School Dharamjaigarh, Raigarh (Senior Secondary School)', },
   { year: 2019, text: 'O.P. Jindal School Savitri Nagar Tamnar, Raigarh (Higher Secondary School)', },
-  { year: 2020, text: 'Jamia Millia Islamia, New Delhi (B.Tech (Electrical Eng.))', },
+  { year: 2020, text: 'Jamia Millia Islamia, New Delhi (B.Tech, Electrical Eng. (2020-2024))', },
   // { year: 2020, text: 'Shared my projects with the world', },
   // { year: 2021, text: 'Started my own platform', },
 ];
