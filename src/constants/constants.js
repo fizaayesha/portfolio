@@ -41,7 +41,7 @@ export const projects = [
   },
   {
     title: "Banking Web App",
-    description: "This is a banking web app, having dummy data of ten users which shows that how the online transaction actually works. In this web application, the users can make transfer and receive money from the other users. Also, it shows the available amount of every user",
+    description: "This is a banking web app, having dummy data of ten users which shows that how the online transaction actually works. In this web application, the users can transfer and receive money from the other users. Also, it shows the available amount of every user",
     image: "/images/5.png",
     tags: ["React", "CSS", "Mongodb", "NodeJs", "ExpressJs"],
     source: "https://github.com/fizaayesha/gripbank-frontend",
