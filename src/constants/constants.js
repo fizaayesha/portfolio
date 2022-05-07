@@ -35,6 +35,15 @@ export const projects = [
     visit: 'https://livcovidtracker.netlify.app/',
     id: 3,
   },
+  {
+    title: 'Ayesha',
+    description: "This is a Live-Covid-19 Tracker. And I created this project using Real API in React Js which the daily data of recovered cases, death cases, confirmed cases and active cases in India. And it also show the last updated date.",
+    image: '/images/5.jpg',
+    tags: ['React', 'CSS'],
+    source: 'www.google.com',
+    visit: 'www.google.com',
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
